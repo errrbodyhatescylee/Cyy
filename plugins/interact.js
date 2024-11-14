@@ -18,7 +18,7 @@ smd(
 
 smd(
   {
-    pattern: "haki", // Command trigger
+    pattern: "cylee", // Command trigger
     react: "🤴", // Reaction emoji for the command
     desc: "Greet and introduce the owner", // Description of the command
     category: "greeting", // Category under which the command falls
