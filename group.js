@@ -738,14 +738,14 @@ const {
        return _0x5e533c.reply(tlang().group);
      }
      if (!_0x5e533c.isBotAdmin) {
-       return await _0x5e533c.reply("*_I'm Not Admin In This Group, Idiot_*");
+       return await _0x5e533c.reply("*_Kylie ain't admin you fucking Idiot_*");
      }
      if (!_0x5e533c.isAdmin) {
        return _0x5e533c.reply(tlang().admin);
      }
      let _0x4e844a = _0x5e533c.quoted ? _0x5e533c.quoted.sender : _0x5e533c.mentionedJid[0] ? _0x5e533c.mentionedJid[0] : false;
      if (!_0x4e844a) {
-       return await _0x5e533c.reply("*Uhh dear, reply/mention an User*");
+       return await _0x5e533c.reply("*Uhh bitch, reply/mention an User*");
      }
      if (_0x5e533c.checkBot(_0x4e844a)) {
        return await _0x5e533c.reply("*Huh, I can't kick my Creator!!*");
