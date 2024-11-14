@@ -1467,7 +1467,7 @@ smd({
             if (_0x39d1ac.isBotAdmin) {
               await _0x39d1ac.send("*[BAD WORD DETECTED] Hey @" + _0x39d1ac.senderNum + "* " + _0x19d37d + "*Deleting your message from chat!*\n", {
                 'mentions': [_0x39d1ac.sender]
-              }, "QUEEN_ALYA", _0x39d1ac);
+              }, "QUEEN_KYLIE", _0x39d1ac);
               await _0x39d1ac['delete']();
             } else {
               await _0x39d1ac.reply("*_[BAD WORD DETECTED] provide admin to take action!_*", {
