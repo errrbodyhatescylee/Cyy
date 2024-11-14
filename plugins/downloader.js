@@ -1159,11 +1159,11 @@ smd(
       const reference = `${query}`; // This will be used as the subtitle (chapter/verse)
       
       // Structuring the message with reduced space
-      const message = `╔════N═I═K═K═A════════🍀\n` +
+      const message = `╔════k═y═l═i═e════════\n` +
                       `║ *🛐Content:* ${verse.trim()}\n` +  // trim() removes any unnecessary whitespace
                       `║ *✨Reference:* ${reference}\n` +
-                      `║ *✨powered By Queen Nikka\n` +
-                      `╚═════N═I═K═K═A════🍀`;
+                      `║ *✨powered By Queen Kylie\n` +
+                      `╚═════k═y═l═i═e════🧸`;
 
       await m.send(message);
     } catch (e) {
