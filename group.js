@@ -729,7 +729,7 @@ const {
    pattern: "kick",
    desc: "Kicks replied/quoted user from group.",
    category: "group",
-   react: "💀",
+   react: "🥾",
    filename: __filename,
    use: "<quote|reply|number>"
  }, async (_0x5e533c, _0x2a29f6) => {
