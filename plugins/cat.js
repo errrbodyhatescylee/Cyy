@@ -11,7 +11,7 @@ smd(
     try {
       await m.send(
         "https://cataas.com/cat",
-        { caption: "*meyaoooooooooooooon!*" },
+        { caption: "*meow meow nigga 🐈*" },
         "img",
         m
       );
